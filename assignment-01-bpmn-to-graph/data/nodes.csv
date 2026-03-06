@@ -1,0 +1,38 @@
+id,bp_id,bp_name,name,code,type
+BP1_Ali2C8ZIpTAhPwlT4R0h-1,BP1,BP1 - Client Onboarding Process,End,END,End
+BP1_Ali2C8ZIpTAhPwlT4R0h-2,BP1,BP1 - Client Onboarding Process,Start,START,Start
+BP1_Ali2C8ZIpTAhPwlT4R0h-3,BP1,BP1 - Client Onboarding Process,Receive Client Requirements,RECEIVE_CLIENT_REQUIREMENTS,Task
+BP1_CtuD9DamVhM_0tf1U4aR-1,BP1,BP1 - Client Onboarding Process,Analyze Initial Requirements,ANALYZE_INITIAL_REQUIREMENTS,Task
+BP1_CtuD9DamVhM_0tf1U4aR-2,BP1,BP1 - Client Onboarding Process,Prepare Quotation and Solution Proposal,PREPARE_QUOTATION_AND_SOLUTION_PROPOSAL,Task
+BP1_CtuD9DamVhM_0tf1U4aR-5,BP1,BP1 - Client Onboarding Process,Negotiate Contract Terms,NEGOTIATE_CONTRACT_TERMS,Task
+BP1_CtuD9DamVhM_0tf1U4aR-10,BP1,BP1 - Client Onboarding Process,Sign Contract,SIGN_CONTRACT,Task
+BP2_m0dWaBalsE_SGbkPXOTP-2,BP2,BP2 - Software Development Process,End,END,End
+BP2_m0dWaBalsE_SGbkPXOTP-3,BP2,BP2 - Software Development Process,Start,START,Start
+BP2_m0dWaBalsE_SGbkPXOTP-4,BP2,BP2 - Software Development Process,Analyze Detailed Requirements,ANALYZE_DETAILED_REQUIREMENTS,Task
+BP2_m0dWaBalsE_SGbkPXOTP-7,BP2,BP2 - Software Development Process,System Design,SYSTEM_DESIGN,Task
+BP2_m0dWaBalsE_SGbkPXOTP-8,BP2,BP2 - Software Development Process,Implementation (Coding),IMPLEMENTATION_(CODING),Task
+BP2_m0dWaBalsE_SGbkPXOTP-11,BP2,BP2 - Software Development Process,Testing,TESTING,Task
+BP2_m0dWaBalsE_SGbkPXOTP-14,BP2,BP2 - Software Development Process,Deployment,DEPLOYMENT,Task
+BP3_h1r0Nhau6VeNcSWNuSRu-2,BP3,BP3 - Testing & Acceptance Process,End,END,End
+BP3_h1r0Nhau6VeNcSWNuSRu-3,BP3,BP3 - Testing & Acceptance Process,Start,START,Start
+BP3_h1r0Nhau6VeNcSWNuSRu-4,BP3,BP3 - Testing & Acceptance Process,Receive Build Version,RECEIVE_BUILD_VERSION,Task
+BP3_h1r0Nhau6VeNcSWNuSRu-7,BP3,BP3 - Testing & Acceptance Process,Functional Testing,FUNCTIONAL_TESTING,Task
+BP3_h1r0Nhau6VeNcSWNuSRu-8,BP3,BP3 - Testing & Acceptance Process,Log Defects,LOG_DEFECTS,Task
+BP3_h1r0Nhau6VeNcSWNuSRu-11,BP3,BP3 - Testing & Acceptance Process,Fix Defects,FIX_DEFECTS,Task
+BP3_h1r0Nhau6VeNcSWNuSRu-14,BP3,BP3 - Testing & Acceptance Process,Re-testing,RE-TESTING,Task
+BP3_tux9pLitGpU1m28h5z2K-0,BP3,BP3 - Testing & Acceptance Process,Customer Acceptance,CUSTOMER_ACCEPTANCE,Task
+BP4_bM5LfHM3EqHih6ohuSnE-2,BP4,BP4 - Maintenance & Support Process,End,END,End
+BP4_bM5LfHM3EqHih6ohuSnE-3,BP4,BP4 - Maintenance & Support Process,Start,START,Start
+BP4_bM5LfHM3EqHih6ohuSnE-4,BP4,BP4 - Maintenance & Support Process,Receive Support Request,RECEIVE_SUPPORT_REQUEST,Task
+BP4_bM5LfHM3EqHih6ohuSnE-7,BP4,BP4 - Maintenance & Support Process,Analyze Issue,ANALYZE_ISSUE,Task
+BP4_bM5LfHM3EqHih6ohuSnE-8,BP4,BP4 - Maintenance & Support Process,Fix Bug or Upgrade System,FIX_BUG_OR_UPGRADE_SYSTEM,Task
+BP4_bM5LfHM3EqHih6ohuSnE-11,BP4,BP4 - Maintenance & Support Process,Testing,TESTING,Task
+BP4_bM5LfHM3EqHih6ohuSnE-14,BP4,BP4 - Maintenance & Support Process,Update Production System,UPDATE_PRODUCTION_SYSTEM,Task
+BP5_AIq98VMxiHwsmSuJmumg-2,BP5,BP5 - Change Request Management Process,End,END,End
+BP5_AIq98VMxiHwsmSuJmumg-3,BP5,BP5 - Change Request Management Process,Start,START,Start
+BP5_AIq98VMxiHwsmSuJmumg-4,BP5,BP5 - Change Request Management Process,Receive Change Request,RECEIVE_CHANGE_REQUEST,Task
+BP5_AIq98VMxiHwsmSuJmumg-7,BP5,BP5 - Change Request Management Process,Analyze Change Requirements,ANALYZE_CHANGE_REQUIREMENTS,Task
+BP5_AIq98VMxiHwsmSuJmumg-8,BP5,BP5 - Change Request Management Process,Impact Assessment,IMPACT_ASSESSMENT,Task
+BP5_AIq98VMxiHwsmSuJmumg-11,BP5,BP5 - Change Request Management Process,Update Project Plan,UPDATE_PROJECT_PLAN,Task
+BP5_AIq98VMxiHwsmSuJmumg-14,BP5,BP5 - Change Request Management Process,Implement Change,IMPLEMENT_CHANGE,Task
+BP5_TwL0U5C1hAAdO7f3god_-0,BP5,BP5 - Change Request Management Process,Testing,TESTING,Task

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6" pages="5">
+  <diagram name="BP1 - Client Onboarding Process" id="M_Qh0rCKVJJuu9EuLWwl">
+    <mxGraphModel dx="1025" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ali2C8ZIpTAhPwlT4R0h-1" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="760" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ali2C8ZIpTAhPwlT4R0h-2" parent="1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#000000;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ali2C8ZIpTAhPwlT4R0h-3" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Receive&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Client&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Requirements&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ali2C8ZIpTAhPwlT4R0h-5" edge="1" parent="1" source="Ali2C8ZIpTAhPwlT4R0h-3" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="CtuD9DamVhM_0tf1U4aR-1" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="104.5" as="sourcePoint" />
+            <mxPoint x="265" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-1" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Analyze&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Initial&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Requirements&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="265" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-2" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Prepare&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Quotation and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Solution Proposal&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-3" edge="1" parent="1" source="CtuD9DamVhM_0tf1U4aR-2" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="CtuD9DamVhM_0tf1U4aR-5" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="480" y="104.5" as="sourcePoint" />
+            <mxPoint x="515" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-4" edge="1" parent="1" source="CtuD9DamVhM_0tf1U4aR-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="CtuD9DamVhM_0tf1U4aR-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="355" y="104.5" as="sourcePoint" />
+            <mxPoint x="390" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-5" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Negotiate&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Contract Terms&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-6" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="725" y="104.5" as="sourcePoint" />
+            <mxPoint x="760" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-7" edge="1" parent="1" source="CtuD9DamVhM_0tf1U4aR-5" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="CtuD9DamVhM_0tf1U4aR-10" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="104.5" as="sourcePoint" />
+            <mxPoint x="635" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkuXzaR4_qu6-DPzpQ04-2" edge="1" parent="1" source="CtuD9DamVhM_0tf1U4aR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ali2C8ZIpTAhPwlT4R0h-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtuD9DamVhM_0tf1U4aR-10" parent="1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Sign Contract&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kkuXzaR4_qu6-DPzpQ04-4" edge="1" parent="1" source="Ali2C8ZIpTAhPwlT4R0h-2" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="Ali2C8ZIpTAhPwlT4R0h-3" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="90" y="105" as="sourcePoint" />
+            <mxPoint x="140" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="BP2 - Software Development Process" id="bp1BVqEo2ISccJFIQJMo">
+    <mxGraphModel dx="1025" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-0" />
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-1" parent="m0dWaBalsE_SGbkPXOTP-0" />
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-2" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="760" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-3" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#000000;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-4" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Analyze&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Detailed&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Requirements&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-5" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" source="m0dWaBalsE_SGbkPXOTP-3" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="m0dWaBalsE_SGbkPXOTP-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="100" y="104.5" as="sourcePoint" />
+            <mxPoint x="135" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-6" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" source="m0dWaBalsE_SGbkPXOTP-4" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="m0dWaBalsE_SGbkPXOTP-7" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="104.5" as="sourcePoint" />
+            <mxPoint x="265" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-7" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;System&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Design&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="265" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-8" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Implementation&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(Coding)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-9" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" source="m0dWaBalsE_SGbkPXOTP-8" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="m0dWaBalsE_SGbkPXOTP-11" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="480" y="104.5" as="sourcePoint" />
+            <mxPoint x="515" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-10" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" source="m0dWaBalsE_SGbkPXOTP-7" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="m0dWaBalsE_SGbkPXOTP-8" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="355" y="104.5" as="sourcePoint" />
+            <mxPoint x="390" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-11" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Testing&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-12" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="725" y="104.5" as="sourcePoint" />
+            <mxPoint x="760" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-13" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" source="m0dWaBalsE_SGbkPXOTP-11" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="m0dWaBalsE_SGbkPXOTP-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="104.5" as="sourcePoint" />
+            <mxPoint x="635" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONTQrI4TAN6lZOuZWtuw-0" edge="1" parent="m0dWaBalsE_SGbkPXOTP-1" source="m0dWaBalsE_SGbkPXOTP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="m0dWaBalsE_SGbkPXOTP-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0dWaBalsE_SGbkPXOTP-14" parent="m0dWaBalsE_SGbkPXOTP-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Deployment&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="BP3 - Testing &amp; Acceptance Process" id="WOECPbSGOnWHxmGMg7QR">
+    <mxGraphModel dx="1025" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-0" />
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-1" parent="h1r0Nhau6VeNcSWNuSRu-0" />
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-2" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="750" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-3" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#000000;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-4" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Receive&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Build Version&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-5" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="h1r0Nhau6VeNcSWNuSRu-3" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="h1r0Nhau6VeNcSWNuSRu-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="100" y="104.5" as="sourcePoint" />
+            <mxPoint x="135" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-6" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="h1r0Nhau6VeNcSWNuSRu-4" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="h1r0Nhau6VeNcSWNuSRu-7" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="104.5" as="sourcePoint" />
+            <mxPoint x="265" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-7" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Functional&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Testing&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="265" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-8" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Log Defects&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-9" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="h1r0Nhau6VeNcSWNuSRu-8" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="h1r0Nhau6VeNcSWNuSRu-11" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="480" y="104.5" as="sourcePoint" />
+            <mxPoint x="515" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-10" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="h1r0Nhau6VeNcSWNuSRu-7" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="h1r0Nhau6VeNcSWNuSRu-8" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="355" y="104.5" as="sourcePoint" />
+            <mxPoint x="390" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-11" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Fix Defects&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-12" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="720" y="214.5" as="sourcePoint" />
+            <mxPoint x="755" y="214.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-13" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="h1r0Nhau6VeNcSWNuSRu-11" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="h1r0Nhau6VeNcSWNuSRu-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="104.5" as="sourcePoint" />
+            <mxPoint x="635" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h1r0Nhau6VeNcSWNuSRu-14" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Re-testing&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GoPKxNedyWBmDwQ_Rafn-0" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="tux9pLitGpU1m28h5z2K-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="h1r0Nhau6VeNcSWNuSRu-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tux9pLitGpU1m28h5z2K-0" parent="h1r0Nhau6VeNcSWNuSRu-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Acceptance&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tux9pLitGpU1m28h5z2K-2" edge="1" parent="h1r0Nhau6VeNcSWNuSRu-1" source="h1r0Nhau6VeNcSWNuSRu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tux9pLitGpU1m28h5z2K-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="BP4 - Maintenance &amp; Support Process" id="niG9zE1KmGX1YE7PMV-P">
+    <mxGraphModel dx="1025" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-0" />
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-1" parent="bM5LfHM3EqHih6ohuSnE-0" />
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-2" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="750" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-3" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#000000;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-4" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Receive&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Support Request&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-5" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" source="bM5LfHM3EqHih6ohuSnE-3" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="bM5LfHM3EqHih6ohuSnE-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="100" y="104.5" as="sourcePoint" />
+            <mxPoint x="135" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-6" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" source="bM5LfHM3EqHih6ohuSnE-4" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="bM5LfHM3EqHih6ohuSnE-7" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="104.5" as="sourcePoint" />
+            <mxPoint x="265" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-7" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Analyze Issue&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="265" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-8" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Fix Bug or&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Upgrade System&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-9" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" source="bM5LfHM3EqHih6ohuSnE-8" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="bM5LfHM3EqHih6ohuSnE-11" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="480" y="104.5" as="sourcePoint" />
+            <mxPoint x="515" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-10" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" source="bM5LfHM3EqHih6ohuSnE-7" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="bM5LfHM3EqHih6ohuSnE-8" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="355" y="104.5" as="sourcePoint" />
+            <mxPoint x="390" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-11" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Testing&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-12" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="720" y="104.5" as="sourcePoint" />
+            <mxPoint x="755" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-13" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" source="bM5LfHM3EqHih6ohuSnE-11" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="bM5LfHM3EqHih6ohuSnE-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="104.5" as="sourcePoint" />
+            <mxPoint x="635" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URw1JutuBs3PF7RNW_ok-0" edge="1" parent="bM5LfHM3EqHih6ohuSnE-1" source="bM5LfHM3EqHih6ohuSnE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bM5LfHM3EqHih6ohuSnE-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bM5LfHM3EqHih6ohuSnE-14" parent="bM5LfHM3EqHih6ohuSnE-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Update&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Production System&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="BP5 - Change Request Management Process" id="9TgjIHYYjv-pshQUyRBp">
+    <mxGraphModel dx="1025" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-0" />
+        <mxCell id="AIq98VMxiHwsmSuJmumg-1" parent="AIq98VMxiHwsmSuJmumg-0" />
+        <mxCell id="AIq98VMxiHwsmSuJmumg-2" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="750" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-3" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#000000;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-4" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Receive&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Change Request&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-5" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="AIq98VMxiHwsmSuJmumg-3" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="AIq98VMxiHwsmSuJmumg-4" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="100" y="104.5" as="sourcePoint" />
+            <mxPoint x="135" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-6" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="AIq98VMxiHwsmSuJmumg-4" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="AIq98VMxiHwsmSuJmumg-7" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="230" y="104.5" as="sourcePoint" />
+            <mxPoint x="265" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-7" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Analyze&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Change&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Requirements&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="265" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-8" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Impact&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Assessment&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="390" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-9" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="AIq98VMxiHwsmSuJmumg-8" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="AIq98VMxiHwsmSuJmumg-11" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="480" y="104.5" as="sourcePoint" />
+            <mxPoint x="515" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-10" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="AIq98VMxiHwsmSuJmumg-7" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="AIq98VMxiHwsmSuJmumg-8" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="355" y="104.5" as="sourcePoint" />
+            <mxPoint x="390" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-11" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Update&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Project Plan&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="510" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-12" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="720" y="214.5" as="sourcePoint" />
+            <mxPoint x="755" y="214.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-13" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="AIq98VMxiHwsmSuJmumg-11" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;" target="AIq98VMxiHwsmSuJmumg-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <Array as="points" />
+            <mxPoint x="600" y="104.5" as="sourcePoint" />
+            <mxPoint x="635" y="104.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AIq98VMxiHwsmSuJmumg-14" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Implement&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Change&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AYKsEWxCEjWstYWExJ24-0" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="TwL0U5C1hAAdO7f3god_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="AIq98VMxiHwsmSuJmumg-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TwL0U5C1hAAdO7f3god_-0" parent="AIq98VMxiHwsmSuJmumg-1" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;span style=&quot;font-family: sans-serif; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Testing&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="630" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TwL0U5C1hAAdO7f3god_-1" edge="1" parent="AIq98VMxiHwsmSuJmumg-1" source="AIq98VMxiHwsmSuJmumg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TwL0U5C1hAAdO7f3god_-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

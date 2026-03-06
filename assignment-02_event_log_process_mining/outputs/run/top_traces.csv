@@ -1,0 +1,11 @@
+trace,frequency
+First Notification of Loss (FNOL) → Assign Claim → Claim Decision → Set Reserve → Payment Sent → Close Claim,29265
+First Notification of Loss (FNOL) → Claim Decision → Assign Claim → Set Reserve → Payment Sent → Close Claim,188
+First Notification of Loss (FNOL) → Assign Claim → Claim Decision → Payment Sent → Set Reserve → Close Claim,180
+First Notification of Loss (FNOL) → Assign Claim → Set Reserve → Claim Decision → Payment Sent → Close Claim,175
+First Notification of Loss (FNOL) → Assign Claim → Claim Decision → Set Reserve → Close Claim → Payment Sent,173
+First Notification of Loss (FNOL) → Assign Claim → Payment Sent → Claim Decision → Set Reserve → Close Claim,4
+First Notification of Loss (FNOL) → Assign Claim → Set Reserve → Claim Decision → Close Claim → Payment Sent,3
+First Notification of Loss (FNOL) → Assign Claim → Set Reserve → Payment Sent → Claim Decision → Close Claim,3
+First Notification of Loss (FNOL) → Assign Claim → Claim Decision → Payment Sent → Close Claim → Set Reserve,2
+First Notification of Loss (FNOL) → Claim Decision → Set Reserve → Assign Claim → Payment Sent → Close Claim,2

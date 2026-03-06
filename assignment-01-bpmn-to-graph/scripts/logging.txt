@@ -1,0 +1,43 @@
+C:\Projects\uit\business-process-management\assignment-01-bpmn-to-graph\.venv\Scripts\python.exe C:\Projects\uit\business-process-management\assignment-01-bpmn-to-graph\scripts\parse_drawio_xml.py 
+XML FILE: C:\Projects\uit\business-process-management\assignment-01-bpmn-to-graph\data\business-processes.drawio.xml
+Exists: True
+
+===================================
+PAGE: BP1 - Client Onboarding Process
+Vertex count: 7
+Edge count  : 6
+
+===================================
+PAGE: BP2 - Software Development Process
+Vertex count: 7
+Edge count  : 6
+
+===================================
+PAGE: BP3 - Testing & Acceptance Process
+Vertex count: 8
+Edge count  : 7
+
+===================================
+PAGE: BP4 - Maintenance & Support Process
+Vertex count: 7
+Edge count  : 6
+
+===================================
+PAGE: BP5 - Change Request Management Process
+Vertex count: 8
+Edge count  : 7
+
+================ SUMMARY ================
+BP1: 7 nodes, 1 edges
+BP2: 7 nodes, 1 edges
+BP3: 8 nodes, 2 edges
+BP4: 7 nodes, 1 edges
+BP5: 8 nodes, 1 edges
+----------------------------------------
+TOTAL NODES: 37
+TOTAL EDGES: 6
+========================================
+✔ Copied nodes.csv → Neo4j import directory
+✔ Copied edges.csv → Neo4j import directory
+
+Process finished with exit code 0

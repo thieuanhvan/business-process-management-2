@@ -1,0 +1,21 @@
+activity_name,next_activity,waiting_hours
+First Notification of Loss (FNOL),Assign Claim,360.24759510935206
+First Notification of Loss (FNOL),Set Reserve,354.7847176225
+First Notification of Loss (FNOL),Claim Decision,345.95458763262303
+Assign Claim,Payment Sent,124.36181200107639
+Assign Claim,Claim Decision,121.13597280469527
+Claim Decision,Set Reserve,121.02809531042477
+Set Reserve,Payment Sent,120.75594972712867
+Payment Sent,Close Claim,120.39039942809485
+Claim Decision,Payment Sent,108.96717191269087
+Set Reserve,Close Claim,107.99737858584493
+Assign Claim,Set Reserve,107.3443654263215
+Claim Decision,Close Claim,91.75209009475694
+Payment Sent,Claim Decision,17.962054882857142
+Claim Decision,Assign Claim,16.087172626821637
+Close Claim,Payment Sent,15.008515594753433
+Payment Sent,Set Reserve,14.170478999797009
+Set Reserve,Claim Decision,12.695653359753086
+Close Claim,Set Reserve,12.631043033333334
+Set Reserve,Assign Claim,8.236430543611112
+Payment Sent,Assign Claim,2.6508380758333336
