@@ -12,6 +12,8 @@ from src.time_analysis import (
     compute_waiting_time,
     detect_bottlenecks
 )
+from src.social_network_metrics import compute_resource_centrality
+
 
 # =========================================================
 # LOGGING CONFIGURATION
@@ -183,13 +185,8 @@ def main():
         case_col="case_id",
         time_col="timestamp",
 
-        # Important: allow self handover
         remove_self_loops=False,
-
-        # keep strongest edges
         top_n=50,
-
-        # keep all weights
         min_weight=1
     )
 
@@ -215,6 +212,23 @@ def main():
     )
 
     logger.info("Handover graph saved")
+
+    # =====================================================
+    # SOCIAL NETWORK METRICS
+    # =====================================================
+
+    logger.info("Computing resource centrality metrics...")
+
+    centrality_df = compute_resource_centrality(resource_graph)
+
+    centrality_path = output_dir / "resource_centrality_metrics.csv"
+
+    centrality_df.to_csv(
+        centrality_path,
+        index=False
+    )
+
+    logger.info(f"Centrality metrics saved: {centrality_path}")
 
     # =====================================================
 

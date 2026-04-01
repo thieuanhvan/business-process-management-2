@@ -1,0 +1,6 @@
+pm4py
+pandas
+networkx
+matplotlib
+lxml
+numpy
